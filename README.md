@@ -1,4 +1,3 @@
-[True Adam and True Eve.html](https://github.com/user-attachments/files/34330550/True.Adam.and.True.Eve.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
